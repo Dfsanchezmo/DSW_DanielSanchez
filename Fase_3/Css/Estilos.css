@@ -44,16 +44,5 @@ section{
 section{
     background-color: burlywood;
 }
-/* tema 1 y 2*/
-.contenedor{
-    display: grid;
-    grid-template-columns: 20% 80%;
-}
-section{
-    background-color: burlywood;
-}
-aside{
-    background-color: darkgrey;
-    padding: 10px;
-}
+
 
