@@ -1,0 +1,21 @@
+header{
+    background-color:burlywood;
+    padding: 10px;
+}
+nav{
+    background-color: burlywood;
+}
+.contenedor{
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+section{ 
+    background-color: burlywood;
+}
+aside{
+    background-color: darkgrey;
+    padding: 10px;
+}
+footer{
+    background-color: burlywood;
+}
