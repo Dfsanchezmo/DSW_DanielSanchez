@@ -1,3 +1,4 @@
+/* pagina principal*/
 header{
     background-color:burlywood;
     padding: 10px;
@@ -20,9 +21,38 @@ footer{
     background-color: burlywood;
 }
 /* autor */
-p{
+section{
     background-color: burlywood;
+    padding: 10px;
+}
+br{
+    background-color: burlywood;
+}
+center{
+    background-color: burlywood;
+    padding: 10px;
 }
 nav{
     background-color: burlywood;
+    padding: 10px;
 }
+/*Recurso digital1*/
+section{
+    background-color: burlywood;
+}
+/*Recurso digital 2*/
+section{
+    background-color: burlywood;
+}
+/* tema 1 y 2*/
+.contenedor2{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+section{
+    background-color: burlywood;
+}
+aside{
+    background-color: burlywood;
+}
+
