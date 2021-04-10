@@ -8,10 +8,11 @@ nav{
 }
 .contenedor{
     display: grid;
-    grid-template-columns: 60% 40%;
+    grid-template-columns: 45% 55%;
 }
 section{ 
     background-color: burlywood;
+    padding: 10px;
 }
 aside{
     background-color: darkgrey;
@@ -19,30 +20,13 @@ aside{
 }
 footer{
     background-color: burlywood;
-}
-/* autor */
-section{
-    background-color: burlywood;
-    padding: 10px;
-}
-br{
-    background-color: burlywood;
-}
-center{
-    background-color: burlywood;
     padding: 10px;
 }
 nav{
     background-color: burlywood;
     padding: 10px;
 }
-/*Recurso digital1*/
-section{
-    background-color: burlywood;
-}
-/*Recurso digital 2*/
-section{
-    background-color: burlywood;
-}
+
+
 
 
