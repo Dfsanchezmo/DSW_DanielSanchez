@@ -1,32 +1,55 @@
 /* pagina principal*/
-header{
-    background-color:burlywood;
-    padding: 10px;
+*{
+    margin: 0%;
+    padding: 0%;
 }
-nav{
+.Menu{
     background-color: burlywood;
 }
-.contenedor{
-    display: grid;
-    grid-template-columns: 45% 55%;
+.Menu nav{
+    display: flex;
+    justify-content: space-around;
 }
-section{ 
-    background-color: burlywood;
-    padding: 10px;
+.Menu nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color : black;
+    padding: 10px 15px;
+    display: block;
+}
+a:hover{
+    background-color: white;
+}
+.Menu nav ul li ul{
+    display: flex;
+    flex-direction: column;
+}
+
+.Menu nav ul li ul{
+    position: absolute;
+    background: burlywood;
+}
+.Menu nav ul li ul{
+    width: 180px;
+    position: relative;
+} 
+.Menu nav ul li ul{
+    display:  none;
+}
+.Menu nav ul li:hover >ul{
+    display: block;
 }
 aside{
-    background-color: darkgrey;
-    padding: 10px;
+    background: burlywood;
 }
-footer{
-    background-color: burlywood;
-    padding: 10px;
+section{
+    background: burlywood;
 }
-nav{
-    background-color: burlywood;
-    padding: 10px;
+br{
+    background: burlywood;
 }
-
-
-
-
