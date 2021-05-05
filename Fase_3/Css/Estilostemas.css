@@ -1,14 +1,21 @@
 /* tema 1 y 2*/
-.contenedor{
-    display: grid;
-    grid-template-columns: 20% 80%;
+*{
+    margin: 0%;
+    padding: 0%;
 }
+
 section{
     background-color: burlywood ;
     padding: 20px;
 }
 aside{
-    background-color: darkkhaki; 
-    padding: 20px;
-    
+    background-color: burlywood; 
+    padding: 20px;   
+}
+section.autor {
+    background: burlywood;
+}
+.regresar nav{
+    background: burlywood;
+
 }
