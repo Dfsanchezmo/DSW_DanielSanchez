@@ -49,13 +49,7 @@ a:hover{
 aside{
     background: burlywood;
 }
-section{
-    background-color: burlywood;
-}
 
-iframe{
-    background-color: burlywood;
-}
 @media (max-width: 600px) {
     .Menu {
         flex-direction: column;
