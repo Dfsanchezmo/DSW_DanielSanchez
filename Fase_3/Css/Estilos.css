@@ -49,13 +49,11 @@ aside{
     background: burlywood;
 }
 section{
-    background: burlywood;
+    background-color: burlywood;
 }
-br{
-    background: burlywood;
-}
+
 iframe{
-    background: burlywood;
+    background-color: burlywood;
 }
 @media (max-width: 600px) {
     .Menu {
