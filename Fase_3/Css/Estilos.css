@@ -72,24 +72,5 @@ aside{
         align-items: flex-start;
     }
 }
-@media screen and ( max-width:800px){
-    header{
-        width: 100%;
-    }
-    .Menu {
-        width: 100%;
-    }
-    section {
-        width: 100%;
-    }
-    nav {
-        width: 100%;
-    }
-    ul li{
-        width: 100%;
-    }
-    iframe{
-        width: 50%;
-    }
-}
+
     
