@@ -50,7 +50,7 @@ aside{
     background: burlywood;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 1080px) {
     .Menu {
         flex-direction: column;
         align-items: flex-start;
