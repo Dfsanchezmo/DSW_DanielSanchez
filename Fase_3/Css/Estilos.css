@@ -49,7 +49,12 @@ a:hover{
 aside{
     background: burlywood;
 }
-
+.verificado{
+    background-color: burlywood;
+}
+p a {
+    background-color: burlywood ;
+}
 @media (max-width: 1080px) {
     .Menu {
         flex-direction: column;
